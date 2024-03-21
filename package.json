@@ -1,0 +1,13 @@
+{
+  "name": "shopping-list-app",
+  "version": "1.0.0",
+  "description": "A simple shopping list application with SQLite database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
+  }
+}
